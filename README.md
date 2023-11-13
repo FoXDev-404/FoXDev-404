@@ -45,7 +45,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FoXDev-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ ![FoXDev-404's Stats](https://github-readme-stats.vercel.app/api?username=FoXDev-404&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+  ![FoXDev-404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FoXDev-404&theme=synthwave&hide_border=false)
+  ![FoXDev-404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoXDev-404&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
   <img src="https://streak-stats.demolab.com?user=FoXDev-404&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FoXDev-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
