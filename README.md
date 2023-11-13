@@ -45,9 +45,7 @@
 ###
 
 <div align="center">
- ![FoXDev-404's Stats](https://github-readme-stats.vercel.app/api?username=FoXDev-404&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
-  ![FoXDev-404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FoXDev-404&theme=synthwave&hide_border=false)
-  ![FoXDev-404's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoXDev-404&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+
 </div>
 
 ### 
