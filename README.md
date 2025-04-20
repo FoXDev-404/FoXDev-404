@@ -110,47 +110,26 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsYteTOT/giphy.gif" width="30"> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-515.3%20thousand%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-515.2%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
+**I Mostly Code in HTML** 
 
 ```text
-🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-🌆 Daytime                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-🌃 Evening                601 commits         ███████████████████░░░░░░   76.95 % 
-🌙 Night                  101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Wednesday                121 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Thursday                 99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Saturday                 153 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Sunday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+C                        4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+**Timeline**
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+![Lines of Code chart](https://raw.githubusercontent.com/FoXDev-404/FoXDev-404/main/assets/bar_graph.png)
 
-🔥 Editors: 
-No Activity Tracked This Week
 
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
- Last Updated on 20/04/2025 10:42:44 UTC
+ Last Updated on 20/04/2025 18:45:25 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
