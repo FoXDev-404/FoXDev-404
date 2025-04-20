@@ -110,26 +110,7 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsYteTOT/giphy.gif" width="30"> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-515.3%20thousand%20lines%20of%20code-blue)
-
-**I Mostly Code in HTML** 
-
-```text
-C                        4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/FoXDev-404/FoXDev-404/main/assets/bar_graph.png)
-
-
- Last Updated on 20/04/2025 18:45:25 UTC
+<!-- Your WakaTime stats will appear here -->
 <!--END_SECTION:waka-->
 
 <div align="center">
