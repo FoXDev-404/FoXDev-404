@@ -11,8 +11,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Update README using waka-readme-stats
-        uses: anmol098/waka-readme-stats@v3.11.2 # Replace with the latest valid version
+        uses: anmol098/waka-readme-stats@v3.11.2
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
