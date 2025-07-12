@@ -144,16 +144,16 @@ Sunday                   161 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PyMastery-100Days-100Proj3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -169,7 +169,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2025 18:51:23 UTC
+ Last Updated on 12/07/2025 18:49:01 UTC
 <!--END_SECTION:waka-->
   
 </details>
