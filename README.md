@@ -113,7 +113,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -144,16 +144,17 @@ Sunday                   355 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Python                   6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SS                       3 mins              █████████████████████████   100.00 % 
+SS                       3 mins              █████████████░░░░░░░░░░░░   53.84 % 
+PyMastery-100Days-100Proj3 mins              ████████████░░░░░░░░░░░░░   46.16 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -169,7 +170,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 18:42:39 UTC
+ Last Updated on 07/09/2025 18:42:35 UTC
 <!--END_SECTION:waka-->
   
 </details>
