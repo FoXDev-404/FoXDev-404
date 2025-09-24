@@ -113,7 +113,48 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2042%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+🌆 Daytime                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌃 Evening                1708 commits        ███████████████████░░░░░░   76.22 % 
+🌙 Night                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Tuesday                  269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Thursday                 293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Friday                   347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Saturday                 346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Sunday                   355 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in HTML** 
 
@@ -128,7 +169,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 18:48:55 UTC
+ Last Updated on 24/09/2025 18:46:28 UTC
 <!--END_SECTION:waka-->
   
 </details>
