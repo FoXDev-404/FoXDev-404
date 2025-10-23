@@ -144,18 +144,16 @@ Sunday                   355 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     12 mins             █████████████░░░░░░░░░░░░   50.96 % 
-Python                   11 mins             ████████████░░░░░░░░░░░░░   49.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████░░░░░░░░░░░░   50.96 % 
-PyCharm                  11 mins             ████████████░░░░░░░░░░░░░   49.04 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PyMastery-100Days-100Proj24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -171,7 +169,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2025 18:51:07 UTC
+ Last Updated on 23/10/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
   
 </details>
