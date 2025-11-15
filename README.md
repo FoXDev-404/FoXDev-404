@@ -144,16 +144,18 @@ Sunday                   355 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     22 mins             ████████████░░░░░░░░░░░░░   49.76 % 
+CSS                      17 mins             █████████░░░░░░░░░░░░░░░░   37.35 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Priyanshu Singh          45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -169,7 +171,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 18:50:26 UTC
+ Last Updated on 15/11/2025 18:45:53 UTC
 <!--END_SECTION:waka-->
   
 </details>
