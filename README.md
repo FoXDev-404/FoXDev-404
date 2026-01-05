@@ -113,9 +113,9 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -169,7 +169,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:50:55 UTC
+ Last Updated on 05/01/2026 18:55:47 UTC
 <!--END_SECTION:waka-->
   
 </details>
