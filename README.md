@@ -113,7 +113,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -144,16 +144,19 @@ Sunday                   355 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             ████████████░░░░░░░░░░░░░   46.53 % 
+TypeScript               7 mins              ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Bash                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+interview-ai-agent-main  24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -169,7 +172,7 @@ Java                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2026 18:53:02 UTC
+ Last Updated on 25/01/2026 18:52:49 UTC
 <!--END_SECTION:waka-->
   
 </details>
