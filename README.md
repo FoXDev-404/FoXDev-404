@@ -113,7 +113,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -144,16 +144,19 @@ Sunday                   355 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TeX                      11 mins             █████████████████████████   100.00 % 
+TypeScript               36 mins             ██████████████████░░░░░░░   71.54 % 
+TeX                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-interview-ai-agent       11 mins             █████████████████████████   100.00 % 
+interview-ai-agent       50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -169,7 +172,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/03/2026 19:07:47 UTC
+ Last Updated on 14/03/2026 19:03:26 UTC
 <!--END_SECTION:waka-->
   
 </details>
