@@ -113,7 +113,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -144,26 +144,26 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.94 % 
-Python                   1 hr                ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-HTML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Python                   1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+HTML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████░░░░░░░░   67.29 % 
-Cursor                   52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+VS Code                  2 hrs 23 mins       ████████████████░░░░░░░░░   65.78 % 
+Cursor                   57 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 🐱‍💻 Projects: 
-js-mastery               2 hrs 24 mins       █████████████████░░░░░░░░   67.88 % 
-llm_engineering          1 hr                ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-plans                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-subagents                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+js-mastery               2 hrs 24 mins       █████████████████░░░░░░░░   66.36 % 
+llm_engineering          1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.07 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+plans                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+subagents                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -179,7 +179,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:43:01 UTC
+ Last Updated on 26/07/2026 19:43:56 UTC
 <!--END_SECTION:waka-->
   
 </details>
