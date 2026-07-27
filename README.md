@@ -113,7 +113,9 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -144,26 +146,48 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
-Python                   1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-HTML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.26 % 
+HTML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ████████████████░░░░░░░░░   65.78 % 
-Cursor                   57 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+VS Code                  2 hrs 23 mins       ████████████████░░░░░░░░░   65.51 % 
+Cursor                   58 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 🐱‍💻 Projects: 
-js-mastery               2 hrs 24 mins       █████████████████░░░░░░░░   66.36 % 
-llm_engineering          1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.07 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+js-mastery               2 hrs 24 mins       █████████████████░░░░░░░░   66.08 % 
+llm_engineering          1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 plans                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 subagents                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 5 mins (57.44%)
+
+✍️ 0 lines written by AI, 4,591 lines written by hand (0.0% AI-written)
+
+🔤 72,063 Input Tokens, 8,903 Output Tokens
+
+💵 $0.35 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 52 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 371 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -179,7 +203,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:43:56 UTC
+ Last Updated on 27/07/2026 20:04:13 UTC
 <!--END_SECTION:waka-->
   
 </details>
