@@ -113,7 +113,80 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2028%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.35%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+🌆 Daytime                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌃 Evening                1718 commits        ███████████████████░░░░░░   76.12 % 
+🌙 Night                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Friday                   345 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Saturday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.96 % 
+Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.89 % 
+HTML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 18 mins       ████████████████░░░░░░░░░   64.79 % 
+Cursor                   58 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+
+🐱‍💻 Projects: 
+js-mastery               2 hrs 21 mins       █████████████████░░░░░░░░   66.04 % 
+llm_engineering          1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+
+💻 Operating System: 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 1 min (56.55%)
+
+✍️ 0 lines written by AI, 4,591 lines written by hand (0.0% AI-written)
+
+🔤 72,063 Input Tokens, 8,903 Output Tokens
+
+💵 $0.35 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 37 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 61 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in HTML** 
 
@@ -128,7 +201,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:01:00 UTC
+ Last Updated on 29/07/2026 19:52:39 UTC
 <!--END_SECTION:waka-->
   
 </details>
