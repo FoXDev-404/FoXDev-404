@@ -146,32 +146,31 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.96 % 
-Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.89 % 
-HTML                     58 mins             ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.53 % 
+HTML                     58 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
+Markdown                 58 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       ████████████████░░░░░░░░░   64.79 % 
-Cursor                   58 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+VS Code                  1 hr 56 mins        ███████████████░░░░░░░░░░   60.64 % 
+Cursor                   58 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Antigravity IDE          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🐱‍💻 Projects: 
-js-mastery               2 hrs 21 mins       █████████████████░░░░░░░░   66.04 % 
-llm_engineering          1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+js-mastery               1 hr 59 mins        ████████████████░░░░░░░░░   62.04 % 
+llm_engineering          1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   34.65 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (56.55%)
+⏱ AI Coding Time: 2 hrs 1 min (63.21%)
 
-✍️ 0 lines written by AI, 4,591 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,551 lines written by hand (0.0% AI-written)
 
 🔤 72,063 Input Tokens, 8,903 Output Tokens
 
@@ -201,7 +200,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:52:39 UTC
+ Last Updated on 30/07/2026 20:01:22 UTC
 <!--END_SECTION:waka-->
   
 </details>
