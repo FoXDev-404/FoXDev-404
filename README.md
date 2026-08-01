@@ -146,43 +146,37 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ██████████████░░░░░░░░░░░   56.36 % 
-HTML                     44 mins             ██████████░░░░░░░░░░░░░░░   38.05 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python                   12 mins             █████████████████████████   98.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-Cursor                   55 mins             ████████████░░░░░░░░░░░░░   47.53 % 
-VS Code                  44 mins             ██████████░░░░░░░░░░░░░░░   38.05 % 
-Antigravity IDE          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Cursor                   12 mins             █████████████████████████   98.27 % 
+Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🐱‍💻 Projects: 
-llm_engineering          1 hr 6 mins         ██████████████░░░░░░░░░░░   56.55 % 
-js-mastery               44 mins             ██████████░░░░░░░░░░░░░░░   38.05 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+llm_engineering          12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (52.12%)
+⏱ AI Coding Time: 0 secs (1.73%)
 
-✍️ 0 lines written by AI, 4,457 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,804 lines written by hand (0.0% AI-written)
 
-🔤 2,050 Input Tokens, 65 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.01 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 28 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 136 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -199,7 +193,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 20:03:52 UTC
+ Last Updated on 01/08/2026 19:43:08 UTC
 <!--END_SECTION:waka-->
   
 </details>
