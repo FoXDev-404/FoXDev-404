@@ -146,38 +146,22 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 mins             █████████████████████████   98.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   12 mins             █████████████████████████   98.27 % 
-Antigravity IDE          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-llm_engineering          12 mins             █████████████████████████   100.00 % 
+llm_engineering          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (1.73%)
-
-✍️ 0 lines written by AI, 4,804 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 136 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -193,7 +177,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:43:08 UTC
+ Last Updated on 02/08/2026 19:42:59 UTC
 <!--END_SECTION:waka-->
   
 </details>
