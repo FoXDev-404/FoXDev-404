@@ -113,75 +113,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%209%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-🌆 Daytime                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-🌃 Evening                1719 commits        ███████████████████░░░░░░   76.13 % 
-🌙 Night                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Saturday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   40 mins             █████████████████░░░░░░░░   68.53 % 
-Git Config               18 mins             ████████░░░░░░░░░░░░░░░░░   31.30 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-
-🔥 Editors: 
-Cursor                   31 mins             █████████████░░░░░░░░░░░░   53.30 % 
-Antigravity IDE          27 mins             ████████████░░░░░░░░░░░░░   46.70 % 
-
-🐱‍💻 Projects: 
-llm_engineering          59 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 40 mins (68.43%)
-
-✍️ 202 lines written by AI, 4,855 lines written by hand (3.99% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 30 AI Prompts
-
-Gemini                   208 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.99% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 97.77% of changed lines were hand-edited
-```
 
 **I Mostly Code in HTML** 
 
@@ -196,7 +128,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:07:30 UTC
+ Last Updated on 07/08/2026 00:24:06 UTC
 <!--END_SECTION:waka-->
   
 </details>
