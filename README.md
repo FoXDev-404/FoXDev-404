@@ -113,9 +113,9 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
 
@@ -146,50 +146,51 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 10 mins        ████████████████░░░░░░░░░   62.47 % 
-HTML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Git Config               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Python                   1 hr 30 mins        █████████████████░░░░░░░░   68.20 % 
+HTML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Git Config               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Cursor                   1 hr 2 mins         ██████████████░░░░░░░░░░░   55.81 % 
-Antigravity IDE          49 mins             ███████████░░░░░░░░░░░░░░   44.19 % 
+Cursor                   1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.29 % 
+Antigravity IDE          1 hr                ███████████░░░░░░░░░░░░░░   45.86 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🐱‍💻 Projects: 
-llm_engineering          1 hr 5 mins         ███████████████░░░░░░░░░░   58.49 % 
-futureweb                21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-CodeX                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-CodeX_1                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-referenced-chatgpt-conver4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+llm_engineering          1 hr 5 mins         ████████████░░░░░░░░░░░░░   49.56 % 
+futureweb                21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+CodeX                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+nova-one                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+CodeX_1                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 💻 Operating System: 
-Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (78.7%)
+⏱ AI Coding Time: 1 hr 48 mins (81.95%)
 
-✍️ 776 lines written by AI, 5,853 lines written by hand (11.71% AI-written)
+✍️ 1,022 lines written by AI, 5,853 lines written by hand (14.87% AI-written)
 
-🔤 1,032,514 Input Tokens, 49,692 Output Tokens
+🔤 1,103,596 Input Tokens, 63,571 Output Tokens
 
-💵 $3.57 Estimated AI Cost This Week
+💵 $3.86 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 12 AI Sessions, 43 AI Prompts
 
-GPT                      539 lines           █████████████████░░░░░░░░   68.93 % 
-Gemini                   208 lines           ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Sonnet                   35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+GPT                      785 lines           ███████████████████░░░░░░   76.36 % 
+Gemini                   208 lines           █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Sonnet                   35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.71% of written lines came from AI
-📄 Detailed Prompter — average 666 characters per prompt
+🧑‍💻 Mostly Hands-On — 14.87% of written lines came from AI
+📄 Detailed Prompter — average 649 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 93.61% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -205,7 +206,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:08:41 UTC
+ Last Updated on 09/08/2026 19:11:17 UTC
 <!--END_SECTION:waka-->
   
 </details>
