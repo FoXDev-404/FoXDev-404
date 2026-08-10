@@ -146,51 +146,51 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        █████████████████░░░░░░░░   68.20 % 
-HTML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Git Config               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Python                   1 hr 26 mins        ████████████████████░░░░░   79.26 % 
+Git Config               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Cursor                   1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.29 % 
-Antigravity IDE          1 hr                ███████████░░░░░░░░░░░░░░   45.86 % 
-VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Antigravity IDE          1 hr                ██████████████░░░░░░░░░░░   55.89 % 
+Cursor                   38 mins             █████████░░░░░░░░░░░░░░░░   35.76 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 
 🐱‍💻 Projects: 
-llm_engineering          1 hr 5 mins         ████████████░░░░░░░░░░░░░   49.56 % 
-futureweb                21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-CodeX                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-nova-one                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-CodeX_1                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+llm_engineering          1 hr 1 min          ██████████████░░░░░░░░░░░   56.54 % 
+futureweb                21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+nova-one                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+macro-cinematic-animation4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (81.95%)
+⏱ AI Coding Time: 1 hr 26 mins (79.98%)
 
-✍️ 1,022 lines written by AI, 5,853 lines written by hand (14.87% AI-written)
+✍️ 912 lines written by AI, 5,853 lines written by hand (13.48% AI-written)
 
-🔤 1,103,596 Input Tokens, 63,571 Output Tokens
+🔤 135,873 Input Tokens, 27,158 Output Tokens
 
-💵 $3.86 Estimated AI Cost This Week
+💵 $0.89 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 43 AI Prompts
+🧠 9 AI Sessions, 26 AI Prompts
 
-GPT                      785 lines           ███████████████████░░░░░░   76.36 % 
-Gemini                   208 lines           █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Sonnet                   35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+GPT                      675 lines           ██████████████████░░░░░░░   73.53 % 
+Gemini                   208 lines           ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Sonnet                   35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.87% of written lines came from AI
-📄 Detailed Prompter — average 649 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 91.76% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.48% of written lines came from AI
+📄 Detailed Prompter — average 935 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 92.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -206,7 +206,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:11:17 UTC
+ Last Updated on 10/08/2026 19:30:40 UTC
 <!--END_SECTION:waka-->
   
 </details>
