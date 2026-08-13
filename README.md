@@ -146,48 +146,48 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   48 mins             ███████████████████████░░   92.56 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   43 mins             ███████████████████████░░   91.77 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Antigravity IDE          33 mins             ████████████████░░░░░░░░░   62.86 % 
-Cursor                   10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-VS Code                  9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Antigravity IDE          33 mins             █████████████████░░░░░░░░   69.52 % 
+VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Cursor                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
 🐱‍💻 Projects: 
-futureweb                21 mins             ██████████░░░░░░░░░░░░░░░   41.05 % 
-nova-one                 11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-llm_engineering          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-macro-cinematic-animation4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+futureweb                21 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
+nova-one                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+llm_engineering          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+macro-cinematic-animation4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (90.08%)
+⏱ AI Coding Time: 42 mins (89.02%)
 
-✍️ 710 lines written by AI, 998 lines written by hand (41.57% AI-written)
+✍️ 281 lines written by AI, 998 lines written by hand (21.97% AI-written)
 
-🔤 135,873 Input Tokens, 27,158 Output Tokens
+🔤 71,109 Input Tokens, 13,906 Output Tokens
 
-💵 $0.89 Estimated AI Cost This Week
+💵 $0.29 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 9 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
-GPT                      675 lines           ████████████████████████░   95.07 % 
-Sonnet                   35 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+GPT                      246 lines           ██████████████████████░░░   87.54 % 
+Sonnet                   35 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.57% of written lines came from AI
-📄 Detailed Prompter — average 652 characters per prompt
+🧑‍💻 Mostly Hands-On — 21.97% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 76.6% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -203,7 +203,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:36:43 UTC
+ Last Updated on 13/08/2026 19:34:35 UTC
 <!--END_SECTION:waka-->
   
 </details>
