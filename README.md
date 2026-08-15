@@ -146,48 +146,41 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   43 mins             ███████████████████████░░   91.77 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Python                   20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          33 mins             █████████████████░░░░░░░░   69.52 % 
-VS Code                  9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Cursor                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Antigravity IDE          11 mins             ██████████████░░░░░░░░░░░   55.15 % 
+VS Code                  9 mins              ███████████░░░░░░░░░░░░░░   44.85 % 
 
 🐱‍💻 Projects: 
-futureweb                21 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
-nova-one                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-llm_engineering          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-macro-cinematic-animation4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+nova-one                 11 mins             ██████████████░░░░░░░░░░░   55.15 % 
+macro-cinematic-animation4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (89.02%)
+⏱ AI Coding Time: 20 mins (100.0%)
 
-✍️ 281 lines written by AI, 998 lines written by hand (21.97% AI-written)
+✍️ 246 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 71,109 Input Tokens, 13,906 Output Tokens
+🔤 71,082 Input Tokens, 13,879 Output Tokens
 
 💵 $0.29 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GPT                      246 lines           ██████████████████████░░░   87.54 % 
-Sonnet                   35 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      246 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 21.97% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 482 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 89.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -203,7 +196,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 19:28:54 UTC
+ Last Updated on 15/08/2026 18:56:46 UTC
 <!--END_SECTION:waka-->
   
 </details>
