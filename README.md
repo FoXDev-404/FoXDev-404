@@ -146,22 +146,43 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    51 mins             ███████████████░░░░░░░░░░   58.80 % 
+CSS                      33 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 24 mins        ████████████████████████░   97.11 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BGMI-Broadcast           51 mins             ███████████████░░░░░░░░░░   58.80 % 
+BGMI-Broadcast-V4.5-Show-33 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 24 mins (97.49%)
+
+✍️ 1 lines written by AI, 4 lines written by hand (20.0% AI-written)
+
+🔤 555,269 Input Tokens, 63,856 Output Tokens
+
+💵 $0.30 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 8 AI Prompts
+
+GPT                      1 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 20.0% of written lines came from AI
+📝 Concise Prompter — average 265 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 97.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -177,7 +198,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:54:45 UTC
+ Last Updated on 13/10/2026 23:00:31 UTC
 <!--END_SECTION:waka-->
   
 </details>
