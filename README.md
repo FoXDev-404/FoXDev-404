@@ -113,30 +113,30 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.36%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-🌆 Daytime                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-🌃 Evening                1719 commits        ███████████████████░░░░░░   76.13 % 
-🌙 Night                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+🌆 Daytime                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌃 Evening                1722 commits        ███████████████████░░░░░░   76.16 % 
+🌙 Night                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Saturday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Saturday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 ```
 
 
@@ -185,20 +185,20 @@ GPT                      1 lines             ███████████�
 🔍 Hands-On Reviewer — 97.78% of changed lines were hand-edited
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in CSS** 
 
 ```text
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-CSS                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 13/10/2026 23:00:31 UTC
+ Last Updated on 14/10/2026 21:52:55 UTC
 <!--END_SECTION:waka-->
   
 </details>
