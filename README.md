@@ -113,9 +113,9 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -124,19 +124,19 @@ me.say_hi()
 ```text
 🌞 Morning                12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 🌆 Daytime                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-🌃 Evening                1722 commits        ███████████████████░░░░░░   76.16 % 
-🌙 Night                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌃 Evening                1723 commits        ███████████████████░░░░░░   76.17 % 
+🌙 Night                  378 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 Friday                   346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Saturday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 ```
 
 
@@ -146,43 +146,52 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    51 mins             ███████████████░░░░░░░░░░   58.80 % 
-CSS                      33 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    51 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
+CSS                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Git Config               28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 24 mins        ████████████████████████░   97.11 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Codex Vscode             1 hr 24 mins        ███████████████░░░░░░░░░░   58.47 % 
+VS Code                  30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Opencode Cli             16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Copilot CLI              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 🐱‍💻 Projects: 
-BGMI-Broadcast           51 mins             ███████████████░░░░░░░░░░   58.80 % 
-BGMI-Broadcast-V4.5-Show-33 mins             ██████████░░░░░░░░░░░░░░░   38.31 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+BGMI-Broadcast           51 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
+BGMI-Broadcast-V4.5-Show-33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+BGMI-Broadcast-V4.8.1-Res30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+new_floder               26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (97.49%)
+⏱ AI Coding Time: 2 hrs 22 mins (98.49%)
 
-✍️ 1 lines written by AI, 4 lines written by hand (20.0% AI-written)
+✍️ 276 lines written by AI, 4 lines written by hand (98.57% AI-written)
 
-🔤 555,269 Input Tokens, 63,856 Output Tokens
+🔤 761,787 Input Tokens, 98,414 Output Tokens
 
-💵 $0.30 Estimated AI Cost This Week
+💵 $14.40 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 7 AI Sessions, 13 AI Prompts
 
-GPT                      1 lines             █████████████████████████   100.00 % 
+MiMo                     275 lines           █████████████████████████   99.64 % 
+GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.0% of written lines came from AI
-📝 Concise Prompter — average 265 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 97.78% of changed lines were hand-edited
+🤖 AI-Driven — 98.57% of written lines came from AI
+📝 Concise Prompter — average 199 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 13.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in CSS** 
@@ -198,7 +207,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:52:55 UTC
+ Last Updated on 15/10/2026 21:37:24 UTC
 <!--END_SECTION:waka-->
   
 </details>
