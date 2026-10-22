@@ -146,52 +146,51 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
-Markdown                 7 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-JavaScript               5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-CSS                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Git Config               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown                 6 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Python                   6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+JavaScript               5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+CSS                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+HTML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-Opencode Cli             24 hrs 10 mins      █████████████████████░░░░   85.87 % 
-VS Code                  3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Copilot CLI              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Antigravity IDE          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Opencode Cli             23 hrs 22 mins      ██████████████████████░░░   88.04 % 
+VS Code                  3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Antigravity IDE          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-new_floder               19 hrs 17 mins      █████████████████░░░░░░░░   68.55 % 
-bgmi-cup-platform        4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-bgmi-cup                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-BGMI-Broadcast-V4.8.1-Res31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-BGMI Complete            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+new_floder               18 hrs 14 mins      █████████████████░░░░░░░░   68.68 % 
+bgmi-cup-platform        4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+bgmi-cup                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+BGMI Complete            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Windows                  28 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  26 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 57 mins (99.35%)
+⏱ AI Coding Time: 26 hrs 22 mins (99.31%)
 
-✍️ 30,765 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 30,421 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 8,833,641 Input Tokens, 2,747,900 Output Tokens
+🔤 8,178,245 Input Tokens, 2,682,046 Output Tokens
 
-💵 $677.70 Estimated AI Cost This Week
+💵 $653.00 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 114 AI Prompts
+🧠 37 AI Sessions, 106 AI Prompts
 
-DeepSeek                 20,609 lines        █████████████████░░░░░░░░   66.52 % 
-MiMo                     10,282 lines        ████████░░░░░░░░░░░░░░░░░   33.19 % 
+DeepSeek                 20,609 lines        █████████████████░░░░░░░░   67.27 % 
+MiMo                     9,938 lines         ████████░░░░░░░░░░░░░░░░░   32.44 % 
 Spark                    59 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Gemini                   30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,189 characters per prompt
+📄 Detailed Prompter — average 1,273 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -209,7 +208,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 21:54:02 UTC
+ Last Updated on 22/10/2026 21:51:10 UTC
 <!--END_SECTION:waka-->
   
 </details>
