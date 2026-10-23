@@ -124,19 +124,19 @@ me.say_hi()
 ```text
 🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 🌆 Daytime                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-🌃 Evening                1759 commits        ███████████████████░░░░░░   75.56 % 
-🌙 Night                  385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌃 Evening                1762 commits        ███████████████████░░░░░░   75.59 % 
+🌙 Night                  385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   372 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Friday                   375 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Saturday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
 
@@ -146,52 +146,47 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Python                   6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-JavaScript               5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-CSS                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-HTML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Markdown                 4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+JavaScript               3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Python                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+CSS                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+HTML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🔥 Editors: 
-Opencode Cli             23 hrs 22 mins      ██████████████████████░░░   88.04 % 
-VS Code                  3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Antigravity IDE          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Opencode Cli             13 hrs 7 mins       ██████████████████████░░░   89.38 % 
+VS Code                  1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-new_floder               18 hrs 14 mins      █████████████████░░░░░░░░   68.68 % 
-bgmi-cup-platform        4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-bgmi-cup                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-BGMI Complete            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+new_floder               9 hrs 53 mins       █████████████████░░░░░░░░   67.42 % 
+bgmi-cup-platform        4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
+New Full                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Windows                  26 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 22 mins (99.31%)
+⏱ AI Coding Time: 14 hrs 29 mins (98.76%)
 
-✍️ 30,421 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 15,540 lines written by AI, 2 lines written by hand (99.99% AI-written)
 
-🔤 8,178,245 Input Tokens, 2,682,046 Output Tokens
+🔤 4,838,150 Input Tokens, 1,704,594 Output Tokens
 
-💵 $653.00 Estimated AI Cost This Week
+💵 $384.68 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 106 AI Prompts
+🧠 6 AI Sessions, 35 AI Prompts
 
-DeepSeek                 20,609 lines        █████████████████░░░░░░░░   67.27 % 
-MiMo                     9,938 lines         ████████░░░░░░░░░░░░░░░░░   32.44 % 
-Spark                    59 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Gemini                   30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+DeepSeek                 15,662 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,273 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,330 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -208,7 +203,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 21:51:10 UTC
+ Last Updated on 23/10/2026 21:35:17 UTC
 <!--END_SECTION:waka-->
   
 </details>
