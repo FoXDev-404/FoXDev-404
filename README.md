@@ -128,7 +128,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-265%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -136,19 +136,19 @@ me.say_hi()
 
 ```text
 🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-🌆 Daytime                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-🌃 Evening                1762 commits        ███████████████████░░░░░░   75.59 % 
-🌙 Night                  385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+🌆 Daytime                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌃 Evening                1762 commits        ███████████████████░░░░░░   75.56 % 
+🌙 Night                  385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Friday                   375 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Friday                   375 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Saturday                 361 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
 Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
@@ -159,29 +159,28 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-JavaScript               3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Python                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-CSS                      2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-HTML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Python                   1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
+Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+JavaScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-Opencode Cli             13 hrs 7 mins       ██████████████████████░░░   89.38 % 
-VS Code                  1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Opencode Cli             3 hrs 43 mins       ███████████████████░░░░░░   77.80 % 
+VS Code                  1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🐱‍💻 Projects: 
-new_floder               9 hrs 53 mins       █████████████████░░░░░░░░   67.42 % 
-bgmi-cup-platform        4 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-New Full                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+bgmi-cup-platform        4 hrs 35 mins       ████████████████████████░   96.12 % 
+New Full                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 💻 Operating System: 
-Windows                  14 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/10/2026 21:35:17 UTC
+ Last Updated on 24/10/2026 08:33:50 UTC
 <!--END_SECTION:waka-->
   
 </details>
