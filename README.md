@@ -172,7 +172,7 @@ Live products and labs I've built end to end:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FoXDev-404&theme=synthwave&show_icons=true&count_private=true" height="150" />
   <img src="https://streak-stats.demolab.com/?user=FoXDev-404&theme=synthwave" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoXDev-404&theme=synthwave&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoXDev-404&theme=synthwave&layout=compact&hide=html,css&langs_count=6" height="150" />
 </div>
 
 ## <img src="https://media.giphy.com/media/lGhBlBMIN2XsYteTOT/giphy.gif" width="30"> Weekly Coding Stats
