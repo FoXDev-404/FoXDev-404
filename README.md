@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C22F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Rajpal+Nishad;Computer+Science+Graduate;Python+%26+Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C22F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Rajpal+Nishad;Full+Stack+Developer;AI+%26+LLM;B.Tech+CSE+%2726" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -34,11 +34,12 @@
 class Rajpal_Nishad:
     def __init__(self):
         self.name = "Rajpal Nishad"
-        self.role = "Python & Full-Stack Developer"
-        self.education = "B.Tech in Computer Science"
-        self.location = "India"
-        self.interests = ["AI", "Data Analysis", "Full Stack Development"]
-        self.current_focus = "Building AI-powered full-stack applications"
+        self.role = "Full Stack Developer"
+        self.focus = "AI & LLM applications"
+        self.education = "B.Tech in Computer Science & Engineering, 2026"
+        self.location = "New Delhi, India"
+        self.experience = ["CRIS — Indian Railways", "IBM SkillBuild"]
+        self.current_project = "BGMI Cup — Tournament Platform"
         self.fun_fact = "I can debug code faster than I can find matching socks!"
 
     def say_hi(self):
@@ -48,48 +49,87 @@ me = Rajpal_Nishad()
 me.say_hi()
 ```
 
-- 🎓 Graduated with a **B.Tech in Computer Science** and ready to build in the real world
-- 🔭 Currently building **full-stack and AI-powered projects**
-- 🌱 Learning **system design, cloud, and production-grade AI applications**
-- 👯 Open to collaborating on **Python, AI, and open-source projects**
-- 💼 Open to **software engineering opportunities**
-- 💬 Ask me about **Python, JavaScript, AI, and web development**
+- 🎓 2026 **B.Tech CSE graduate** from MGM College of Engineering & Technology, Noida
+- 💼 Interned at **CRIS (Indian Railways)** and **IBM SkillBuild**
+- 🚀 Open to **full-time full-stack / AI engineering roles**
+- 🔭 Currently building **BGMI Cup**, a live esports tournament platform
+- 🤖 Built **AI MockPrep** — AI interviews plus ATS resume analysis
+- 🌱 Going deeper into **LLM engineering, RAG, and production full-stack systems**
+- 💬 Ask me about **Python, React/Next.js, AI/LLM integrations, and REST APIs**
 - 📫 Reach me at **rajpal010304@gmail.com**
 - ⚡ Fun fact: I love exploring different domains and staying updated with the latest in Generative AI
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people! Feel free to reach out - I'd be happy to chat!</em>
 
+## 💼 Experience
+
+**CRIS — Centre for Railway Information Systems** · New Delhi<br>
+*Intern, Passenger Reservation System (PRS)* · May 2025 – Jul 2025
+
+- Built and tested REST APIs for the Passenger Reservation System in a large-scale enterprise codebase.
+- Worked with backend services and databases; debugged and maintained APIs across PRS modules.
+- Gained hands-on exposure to production-grade development, testing, and release workflows.
+
+**IBM SkillBuild** · Remote<br>
+*Full Stack Development Intern* · Jul 2025 – Aug 2025
+
+- Built responsive interfaces with HTML, CSS, and JavaScript, improving UI consistency across devices.
+- Developed reusable React components and improved load time through targeted frontend fixes.
+- Worked in an agile team, debugging issues and shipping features in short cycles.
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
 <div align="center">
-  <h3>Languages & Frameworks</h3>
+  <h3>Languages</h3>
 
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <h3>Frontend</h3>
 
-  <!-- Backend & Templating -->
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/ejs-8e44ad?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
+  <h3>Backend &amp; Databases</h3>
 
-  <h3>Tools & Technologies</h3>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <h3>AI / LLM</h3>
 
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/RAG-6C22F7?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+
+  <h3>Tools &amp; Platforms</h3>
+
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity
@@ -102,17 +142,30 @@ me.say_hi()
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Projects
 
+Live products and labs I've built end to end:
+
 <div align="center">
   <a href="https://github.com/FoXDev-404/bgmi-cup-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=bgmi-cup-platform&theme=radical" alt="BGMI Cup Platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=bgmi-cup-platform&theme=radical" alt="BGMI Cup Tournament Platform" />
   </a>
-  <a href="https://github.com/FoXDev-404/bgmi-broadcast-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=bgmi-broadcast-system&theme=radical" alt="BGMI Broadcast System" />
+  <a href="https://github.com/FoXDev-404/interview-ai-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=interview-ai-agent&theme=radical" alt="AI MockPrep" />
   </a>
-  <a href="https://github.com/FoXDev-404/PyMastery-100Days-100Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=PyMastery-100Days-100Projects&theme=radical" alt="PyMastery Project" />
+  <a href="https://github.com/FoXDev-404/resume_platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=resume_platform&theme=radical" alt="AI Resume Platform" />
+  </a>
+  <a href="https://github.com/FoXDev-404/llm_engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=llm_engineering&theme=radical" alt="LLM Engineering Labs" />
   </a>
 </div>
+
+## 🎓 Education & Certifications
+
+**MGM College of Engineering & Technology, Noida** · 2022 – 2026<br>
+*B.Tech in Computer Science & Engineering*
+
+- **Python Training** — IIT Bombay (NPTEL) · Apr 2025
+- **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy · Jul 2025
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
@@ -191,10 +244,10 @@ Windows                  4 hrs 46 mins       ███████████�
 
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Goals for 2026
 
-- Land a full-time software engineering role
-- Ship production-quality full-stack and AI-powered projects
+- Land a full-time full-stack / AI engineering role
+- Scale **BGMI Cup** and **AI MockPrep** to more real users
 - Contribute consistently to open-source projects
-- Strengthen my data structures, algorithms, and system design skills
+- Go deeper into **LLM engineering, RAG, and system design**
 - Earn a cloud certification
 
 ---
