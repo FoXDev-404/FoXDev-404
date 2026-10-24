@@ -1,13 +1,13 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![Profile Banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C22F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Rajpal+Nishad;Python+Developer;AI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C22F7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I'm+Rajpal+Nishad;Computer+Science+Graduate;Python+%26+Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=rajpal010304@gmail.com&su=SUBJECT&body=BODY&tf=1" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rajpal010304@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/rajpalnishad" target="_blank">
@@ -16,8 +16,8 @@
   <a href="https://www.instagram.com/ig.nishad_raj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/nishad_raj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+  <a href="https://x.com/rajpal010304" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="x logo" />
   </a>
 </div>
 
@@ -34,10 +34,11 @@
 class Rajpal_Nishad:
     def __init__(self):
         self.name = "Rajpal Nishad"
-        self.role = "Python Developer"
+        self.role = "Python & Full-Stack Developer"
+        self.education = "B.Tech in Computer Science"
         self.location = "India"
         self.interests = ["AI", "Data Analysis", "Full Stack Development"]
-        self.current_project = "PyMastery-100Days-100Projects"
+        self.current_focus = "Building AI-powered full-stack applications"
         self.fun_fact = "I can debug code faster than I can find matching socks!"
 
     def say_hi(self):
@@ -47,11 +48,14 @@ me = Rajpal_Nishad()
 me.say_hi()
 ```
 
-- 🔭 I'm currently working on **Python projects** and expanding my programming skills
-- 🌱 I'm learning **Advanced Python, Data Analysis, and AI Applications**
-- 👯 I'm looking to collaborate on **Python and AI-related projects**
-- 💬 Ask me about **Python, AI, and tech exploration**
-- ⚡ Fun fact: I love to explore different domains and stay updated with the latest in Generative AI
+- 🎓 Graduated with a **B.Tech in Computer Science** and ready to build in the real world
+- 🔭 Currently building **full-stack and AI-powered projects**
+- 🌱 Learning **system design, cloud, and production-grade AI applications**
+- 👯 Open to collaborating on **Python, AI, and open-source projects**
+- 💼 Open to **software engineering opportunities**
+- 💬 Ask me about **Python, JavaScript, AI, and web development**
+- 📫 Reach me at **rajpal010304@gmail.com**
+- ⚡ Fun fact: I love exploring different domains and staying updated with the latest in Generative AI
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people! Feel free to reach out - I'd be happy to chat!</em>
 
@@ -71,7 +75,10 @@ me.say_hi()
 
   <!-- Backend & Templating -->
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/ejs-8e44ad?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
   <h3>Tools & Technologies</h3>
@@ -88,12 +95,20 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FoXDev-404&theme=dracula" alt="GitHub Activity Graph" />
+  <a href="https://github.com/FoXDev-404">
+    <img src="https://ghchart.rshah.org/6C22F7/FoXDev-404" alt="Rajpal's GitHub contribution chart" />
+  </a>
 </div>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Projects
 
 <div align="center">
+  <a href="https://github.com/FoXDev-404/bgmi-cup-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=bgmi-cup-platform&theme=radical" alt="BGMI Cup Platform" />
+  </a>
+  <a href="https://github.com/FoXDev-404/bgmi-broadcast-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=bgmi-broadcast-system&theme=radical" alt="BGMI Broadcast System" />
+  </a>
   <a href="https://github.com/FoXDev-404/PyMastery-100Days-100Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FoXDev-404&repo=PyMastery-100Days-100Projects&theme=radical" alt="PyMastery Project" />
   </a>
@@ -103,7 +118,7 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FoXDev-404&theme=synthwave&show_icons=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoXDev-404&theme=synthwave" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=FoXDev-404&theme=synthwave" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoXDev-404&theme=synthwave&layout=compact" height="150" />
 </div>
 
@@ -113,9 +128,7 @@ me.say_hi()
   <summary>📊 Click to view my detailed coding stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2045%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2010%20mins-blue?style=flat)
+![Code Time](https://img.shields.io/badge/Code%20Time-265%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -167,41 +180,6 @@ Unknown Project          4 mins              ░░░░░░░░░░░�
 Windows                  14 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 29 mins (98.76%)
-
-✍️ 15,540 lines written by AI, 2 lines written by hand (99.99% AI-written)
-
-🔤 4,838,150 Input Tokens, 1,704,594 Output Tokens
-
-💵 $384.68 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 35 AI Prompts
-
-DeepSeek                 15,662 lines        █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,330 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-```
-
-
-
 
  Last Updated on 23/10/2026 21:35:17 UTC
 <!--END_SECTION:waka-->
@@ -212,13 +190,13 @@ TypeScript               1 repo              █░░░░░░░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Goals for 2025
+## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Goals for 2026
 
-- Contribute to open-source Python projects
-- Build a portfolio of AI/ML applications
-- Develop expertise in AI and data science
-- Complete my PyMastery-100Days-100Projects challenge
-- Acquire cloud certifications
+- Land a full-time software engineering role
+- Ship production-quality full-stack and AI-powered projects
+- Contribute consistently to open-source projects
+- Strengthen my data structures, algorithms, and system design skills
+- Earn a cloud certification
 
 ---
 
