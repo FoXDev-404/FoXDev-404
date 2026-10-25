@@ -212,28 +212,20 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
-Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-JavaScript               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Opencode Cli             3 hrs 43 mins       ███████████████████░░░░░░   77.80 % 
-VS Code                  1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-OpenCode                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Opencode Cli             0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bgmi-cup-platform        4 hrs 35 mins       ████████████████████████░   96.12 % 
-New Full                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/10/2026 21:03:42 UTC
+ Last Updated on 25/10/2026 21:05:07 UTC
 <!--END_SECTION:waka-->
   
 </details>
