@@ -183,26 +183,26 @@ Live products and labs I've built end to end:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2045%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-🌆 Daytime                167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-🌃 Evening                1772 commits        ███████████████████░░░░░░   75.60 % 
-🌙 Night                  385 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+🌞 Morning                21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌆 Daytime                167 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌃 Evening                1786 commits        ███████████████████░░░░░░   75.68 % 
+🌙 Night                  386 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Wednesday                330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Thursday                 328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Friday                   375 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Wednesday                346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Thursday                 328 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Friday                   375 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Saturday                 371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 ```
 
 
@@ -212,20 +212,27 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 8 mins        ██████████████░░░░░░░░░░░   57.35 % 
+Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Git Config               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔥 Editors: 
-Opencode Cli             0 secs              █████████████████████████   100.00 % 
+Copilot CLI              3 hrs 48 mins       █████████████████░░░░░░░░   69.60 % 
+Opencode Cli             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+VS Code                  48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+estatevista              5 hrs 13 mins       ████████████████████████░   95.50 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/10/2026 22:29:39 UTC
+ Last Updated on 28/10/2026 22:46:13 UTC
 <!--END_SECTION:waka-->
   
 </details>
