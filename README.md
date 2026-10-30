@@ -183,26 +183,26 @@ Live products and labs I've built end to end:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.55%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.60%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-🌆 Daytime                182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-🌃 Evening                1790 commits        ███████████████████░░░░░░   75.02 % 
-🌙 Night                  393 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+🌞 Morning                22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+🌆 Daytime                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+🌃 Evening                1799 commits        ███████████████████░░░░░░   74.52 % 
+🌙 Night                  403 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Wednesday                346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Friday                   382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Saturday                 371 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Wednesday                346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Saturday                 381 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Sunday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 ```
 
 
@@ -212,27 +212,30 @@ Sunday                   356 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 8 mins        ██████████████░░░░░░░░░░░   57.35 % 
-Markdown                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Git Config               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
+JavaScript               4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+TOML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Git Config               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-Copilot CLI              3 hrs 48 mins       █████████████████░░░░░░░░   69.60 % 
-Opencode Cli             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-VS Code                  48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+VS Code                  8 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.26 % 
+OpenCode                 4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Copilot CLI              3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Opencode Cli             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🐱‍💻 Projects: 
-estatevista              5 hrs 13 mins       ████████████████████████░   95.50 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+cuet-platform            10 hrs 42 mins      ████████████████░░░░░░░░░   62.74 % 
+estatevista              5 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
+CUET Mock                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/10/2026 22:55:22 UTC
+ Last Updated on 30/10/2026 22:34:25 UTC
 <!--END_SECTION:waka-->
   
 </details>
